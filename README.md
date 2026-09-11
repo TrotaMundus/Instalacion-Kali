@@ -1,15 +1,16 @@
 <h1>Instalación de Kali Linux</h1>
+
 <p>
   <strong>
-    <a href="https://youtu.be">
+    <a href="https://www.youtube.com/watch?v=HaS0Frl8n40">
       Hacking Ético #01 | Instalación de Kali Linux desde 0
     </a>
   </strong>
 </p>
 
-<a href="https://youtu.be">
+<a href="https://www.youtube.com/watch?v=HaS0Frl8n40">
   <img
-    src="https://youtube.com"
+    src="https://img.youtube.com/vi/HaS0Frl8n40/maxresdefault.jpg"
     alt="Hacking Ético #01 | Instalación de Kali Linux desde 0"
     width="800"
   />
