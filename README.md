@@ -286,8 +286,8 @@
 
   <p>
     <strong>
-      <a href="URL_REPOSITORIO_VIDEO_2">
-        Video 2 - Actualización de Kali Linux
+      <a href="https://github.com/TrotaMundus/Actualizacion-Kali">
+        Hacking Ético #02 | Actualizar Kali Linux desde Cero
       </a>
     </strong>
   </p>
